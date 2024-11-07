@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1073264768923",
+    "project_id": "retotok-59ef2",
+    "storage_bucket": "retotok-59ef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073264768923:android:4db3b54e6bcf9743e0d33e",
+        "android_client_info": {
+          "package_name": "com.example.retotok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073264768923-qbagovko1q6v2b43c029s15jigtprsbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retotok",
+            "certificate_hash": "d871adbc8c2067bdab0f2ca02811a43ee10d90dc"
+          }
+        },
+        {
+          "client_id": "1073264768923-q382ah2kptfr261e9skdmr049ak3ujv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNOFe0TE3YsYhGOpcIwZ8wwqzT9KrQvvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073264768923-q382ah2kptfr261e9skdmr049ak3ujv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073264768923-1529eaqed3d8nv10dk7c7k5sisp1eugv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.retotok"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
